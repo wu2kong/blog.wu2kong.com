@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 悟二空的博客
 subtitle: ''
 description: ''
 keywords:
@@ -99,6 +99,7 @@ ignore:
 ## Themes: https://hexo.io/themes/
 # theme: landscape
 theme: maupassant
+# theme: 3-hexo
 
 
 # Deployment
